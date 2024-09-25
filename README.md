@@ -9,6 +9,9 @@
 When you try to access a TryHackMe & HackTheBox lab machine's webpage, it freezes and doesn't load. In your browser, you see the status saying “Waiting on 10.10.x.x”.
 
 
+![Screenshot 2024-09-26 001701](https://github.com/user-attachments/assets/076c9e39-3a5b-417e-8cdb-e9b0ba8603bd)
+
+
 ## Solution:
 1.Disconnect from the VPN.
 
